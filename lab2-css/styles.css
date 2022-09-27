@@ -1,0 +1,98 @@
+/* Add your CSS style definitions to this file */
+
+body{
+    margin-top: 0em;
+    margin-bottom: 0em;
+    margin-left: 4em;
+    margin-right: 4em;
+    font-size: 15px;
+
+    background-color: #f9f9f9;
+    font-family: "Open Sans";
+}
+
+
+.header{
+    font-family: "roboto slab";
+    font-size: 2rem;
+    color: #9f2042;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 0.1em;
+}
+
+.hero{
+    padding-top: 1.5em;
+    width: 100%;
+}
+
+#details{
+    
+    color: #a9a9ba;
+    font-size: 1.25rem;
+    text-align: center;
+
+}
+
+footer{
+    background-color:#29293a;
+    text-align: left;
+    padding-top: 20px;
+    padding-bottom: 12px;
+    padding-left: 25px;
+    color:white;
+    
+}
+
+a:link{text-decoration: none;}
+
+a{
+    color: #ec8295;
+}
+ 
+a:hover{
+    color:#9f2042;
+}
+
+.text{
+    
+    text-align: left;
+    font-size:1rem;
+    margin-left:3em;
+    color:black;
+}
+
+blockquote{
+    font-family: "roboto slab";
+    border: 2px solid #ececec;
+    background-color:#f9f9f9;
+    width:77%;
+    
+    padding: 25px; 
+    font-size: 1.25rem;
+    
+    margin-left:3.5em;
+    
+    text-align: left;
+    color:black;
+    
+}
+
+
+
+#buttons a{
+    display:inline-block;
+    border: 2px solid #ececec;
+    background-color:#f9f9f9;
+    width: 12%;
+    border-radius: 7px;
+    padding:1em;
+    margin-top: 0.25em;
+    margin-bottom: 1.25em;
+    text-align: center;
+}
+
+.firstButton{
+    margin-left:3em;
+    
+}
